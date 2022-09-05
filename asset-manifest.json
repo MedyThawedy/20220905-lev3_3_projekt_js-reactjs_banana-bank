@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/static/css/main.cf4aad38.css",
+    "main.js": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/static/js/main.d5753943.js",
+    "static/js/787.1c699189.chunk.js": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/static/js/787.1c699189.chunk.js",
+    "index.html": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/index.html",
+    "main.cf4aad38.css.map": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/static/css/main.cf4aad38.css.map",
+    "main.d5753943.js.map": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/static/js/main.d5753943.js.map",
+    "787.1c699189.chunk.js.map": "/20220905-lev3_3_projekt_js-reactjs_banana-bank/static/js/787.1c699189.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf4aad38.css",
+    "static/js/main.d5753943.js"
+  ]
+}
