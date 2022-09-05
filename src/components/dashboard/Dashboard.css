@@ -1,0 +1,55 @@
+h1 {
+    color: cornflowerblue;
+}
+
+h2 {
+    color: grey;
+}
+
+.clsDivParent {
+    border: 0.5px solid rgb(238, 238, 238);
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input.clsAccountBalance {
+    width: 200px;
+    font-size: 3rem;
+    border: 0.5px solid rgb(238, 238, 238);
+    border-radius: 3px;
+}
+
+input.clsAccountBalance,
+input.clsDepositsAndWithdrawals {
+    text-align: center;
+    border: 0.5px solid rgb(238, 238, 238);
+}
+
+.divBtn {
+    margin-top: 1vh;
+
+}
+
+.divBtn button {
+    margin: 10px;
+    padding: 5px;
+    font-size: 1.1rem;
+    background-color: cornflowerblue;
+    border: 0.5px solid rgb(238, 238, 238);
+    color: rgb(238, 238, 238);
+    border-radius: 3px;
+}
+
+.divBtn button:hover {
+
+    background-color: rgb(238, 238, 238);
+    color: cornflowerblue;
+    cursor: pointer;
+
+}
